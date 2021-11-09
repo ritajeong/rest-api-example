@@ -11,7 +11,7 @@
 
 ### 디렉터리 구조
 
-![directory image](img/readme/directory image.jpg)
+![directory](img/readme/directory.jpg)
 
 ###  실행방법
 
